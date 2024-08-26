@@ -1,0 +1,77 @@
+.carousel-inner {
+    height: 500px;
+    border-radius: 10px;
+
+    @media (max-width: 575.98px) {
+        height: 300px;
+    }
+}
+
+
+#about-us {
+    height: 550px;
+
+    @media (max-width: 575.98px) {
+        height: auto;
+    }
+
+    h2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    hr {
+        margin-bottom: 2.5rem;
+    }
+}
+
+#featured {
+    height: 550px;
+
+    @media (max-width: 575.98px) {
+        height: auto;
+    }
+
+    h2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    hr {
+        margin-bottom: 2.5rem;
+    }
+}
+
+#comments {
+    height: 450px;
+
+    @media (max-width: 575.98px) {
+        height: auto;
+    }
+
+    h2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    hr {
+        margin-bottom: 2.5rem;
+    }
+}
+
+#contact {
+    height: 450px;
+
+    @media (max-width: 575.98px) {
+        height: auto;
+    }
+
+    h2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    hr {
+        margin-bottom: 2.5rem;
+    }
+}

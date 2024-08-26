@@ -1,0 +1,21 @@
+.testimony {
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    height: auto;
+    align-items: center;
+
+
+    &__text {
+        text-align: center;
+    }
+
+    &__img {
+        width: 5rem;
+        border-radius: 100%;
+        aspect-ratio: 1;
+        object-fit: cover;
+
+    }
+}
+
